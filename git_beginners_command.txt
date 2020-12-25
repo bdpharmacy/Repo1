@@ -1,0 +1,10 @@
+ - git init
+ - git status
+ - git add "Write file name that you want to add"
+ - git commit -m “write a message to describe your commit”
+ - git remote add origin “location of remote repo. it should be full repository address such as https://github.com/bdpharmacy/Repo1.git”
+ - git push -u origin master
+
+ID: mdalaminbadal@gmail.com
+password: Muhaimin_786
+name: bdpharmacy
